@@ -1,0 +1,9 @@
+{
+    "name": "com.jacobdufault.fullinspector",
+    "displayName": "UniRx",
+    "version": "2.6.8 ",
+    "unity": "2018.3",
+    "description": "Full Inspector supercharges the Unity inspector.",
+    "license": "MIT",
+    "dependencies": {}
+}
